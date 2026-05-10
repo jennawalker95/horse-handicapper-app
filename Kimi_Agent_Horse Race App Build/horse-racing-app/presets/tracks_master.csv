@@ -1,0 +1,69 @@
+code,name,state,surfaces,breed,notes,seasonal_flag
+AQU,Aqueduct,NY,Dirt/Turf,TB,Inner/Outer turf courses,0
+BEL,Belmont Park,NY,Dirt/Turf,TB,Main track + 2 turf courses,0
+SAR,Saratoga,NY,Dirt/Turf,TB,Premier summer meet,1
+GP,Gulfstream Park,FL,Dirt/Turf,TB,Championship Meet in winter,0
+GPW,Gulfstream West,FL,Dirt,TB,Former Calder Race Course,0
+TAM,Tampa Bay Downs,FL,Dirt/Turf,TB,Winter/spring meet,0
+OP,Oaklawn Park,AR,Dirt,TB,Strong winter/spring meet,0
+DED,Delta Downs,LA,Dirt,TB,QH focus in summer,0
+EVD,Evangeline Downs,LA,Dirt,TB,Spring/summer meet,0
+LAD,Louisiana Downs,LA,Dirt,TB,Summer meet,0
+FG,Fair Grounds,LA,Dirt/Turf,TB,Winter/spring meet,0
+KEE,Keeneland,KY,Dirt/Turf,TB,April + October meets,1
+CD,Churchill Downs,KY,Dirt/Turf,TB,KY Derby home,0
+TP,Turfway Park,KY,Dirt,TB,Winter meet,0
+IND,Indiana Grand,IN,Dirt,TB,May-October,0
+MNR,Mountaineer,WV,Dirt,TB,Year-round,0
+CT,Charles Town,WV,Dirt,TB,Night racing,0
+PRX,Parx Racing,PA,Dirt/Turf,TB,Former Philadelphia Park,0
+PID,Presque Isle,PA,Tapeta,TB,Summer meet only,1
+PEN,Penn National,PA,Dirt,TB,Night racing,0
+DEL,Delaware Park,DE,Dirt/Turf,TB,May-October,0
+MTH,Monmouth Park,NJ,Dirt/Turf,TB,Summer meet,1
+BM,Belmont at Big A,NY,Dirt,TB,Formerly Aqueduct fall,0
+FL,Finger Lakes,NY,Dirt,TB,May-November,0
+SR,Sam Houston Race Park,TX,Dirt/TB,TB/QH,Mixed meet winter,0
+LRL,Laurel Park,MD,Dirt/Turf,TB,Year-round,0
+CNL,Colonial Downs,VA,Dirt/Turf,TB,Summer meet,1
+KDY,Keystone Downs,PA,Dirt,QH,Quarter Horse only,0
+HOU,Houston Race Park,TX,Dirt,QH,QH focus,0
+RET,Remington Park,OK,Dirt,TB/QH,Mixed TB/QH,0
+RP,Remington Park,OK,Dirt,TB/QH,Strong QH meet,0
+LS,Lone Star Park,TX,Dirt,TB/QH,Mixed meet,0
+TUP,Turf Paradise,AZ,Dirt/Turf,TB,Winter meet,1
+DRC,Del Mar Racetrack,CA,Dirt/Turf,TB,Summer meet,1
+SA,Santa Anita,CA,Dirt/Turf,TB,Year-round flagship,0
+GG,Golden Gate Fields,CA,Dirt/Turf,TB,Now relocated to Pleasanton,0
+FER,Ferndale,CA,Dirt,TB,Fair meet,1
+AC,Alameda County Fair,CA,Dirt,TB,Summer fair,1
+SAC,Sacramento,CA,Dirt,TB,State Fair meet,1
+SOL,Solano,CA,Dirt,TB,Fair meet,1
+AP,Arlington Park,IL,Dirt/Turf,TB,Historic - check status,0
+HAW,Hawthorne,IL,Dirt,TB,Fall/winter meet,0
+ Ellis Park,KY,Dirt/Turf,TB,Summer meet,1
+KD,Kentucky Downs,KY,Turf,TB,All-turf meet,1
+ELP,Ellis Park,KY,Dirt/Turf,TB,Summer meet,1
+CRC,Churchill Downs (September),KY,Dirt,TB,September mini-meet,0
+BTP,Belterra Park,OH,Dirt,TB,May-September,0
+TDN,Thistledown,OH,Dirt,TB,May-November,0
+MVR,Mahoning Valley,OH,Dirt,TB,Year-round,0
+WRD,Will Rogers Downs,OK,Dirt,TB,Year-round,0
+FON,Fonner Park,NE,Dirt,TB,Spring meet,0
+CBY,Canterbury Park,MN,Dirt/TB,TB,May-September,0
+ARP,Arapahoe Park,CO,Dirt,TB,May-August,1
+SFE,Santa Fe Downs,NM,Dirt,QH,QH focus,0
+ALB,Albuquerque,NM,Dirt,QH,Strong QH meet,0
+ZIA,Zia Park,NM,Dirt,TB/QH,Mixed meet,0
+SUN,Sunland Park,NM,Dirt,TB/QH,Winter/spring meet,1
+AP,Australia PB,CA,Dirt,QH,Quarter Horse,0
+LBG,Los Alamitos,CA,Dirt,QH,Premier QH track,0
+DMR,Del Mar (QH),CA,Dirt,QH,QH summer meet,1
+HOL,Hollywood Park,CA,Dirt,QH,Now Los Alamitos,0
+POM,Pomona,CA,Dirt,QH,L.A. County Fair,1
+SD,San Diego,CA,Dirt,QH,Fair meet,1
+FX,Fresno,CA,Dirt,QH,Fair meet,1
+STK,Stockton,CA,Dirt,QH,Fair meet,1
+PLD,Pleasanton,CA,Dirt,TB,Alameda County Fair,1
+SUD,Sunshine Meadows,FL,Dirt,QH,QH training center,0
+OCG,Orange County,CA,Dirt,QH,Fair meet,1

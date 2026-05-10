@@ -1,0 +1,11 @@
+horse_name,post_position,jockey,trainer,morning_line,scratched,speed_figure,early_pace,late_pace,class_rating,trainer_pct,jockey_pct,last_race_date,days_since_race,last_class_level,prior_class_level,first_off_claim,form_trend_score,distance_fit_score,surface_fit_score,post_position_score,speed_consistency,workout_score,race_count_90d,distance_move
+Lightning Strike,5,R. Santana Jr.,S. Asmussen,2.5,False,98,85,60,88,22,18,2026-05-01,10,85,82,False,1,85,90,70,85,80,3,Same
+Midnight Runner,3,J. Ortiz,C. Brown,4.0,False,92,70,75,82,20,19,2026-04-28,13,80,80,False,2,80,85,75,78,75,4,Same
+Thunder Road,8,J. Rosario,B. Baffert,6.0,False,88,90,50,78,24,21,2026-04-25,16,78,75,False,-1,70,90,60,72,85,2,Same
+Golden Dream,1,I. Ortiz Jr.,T. Pletcher,8.0,False,85,55,80,75,21,20,2026-04-20,21,75,72,False,3,85,80,85,80,70,3,Same
+Silver Arrow,6,J. Velazquez,C. Cox,12.0,False,82,60,70,72,18,17,2026-04-15,26,72,74,True,0,75,85,65,75,65,2,Same
+Copper Blaze,2,L. Saez,B. Walsh,15.0,False,78,75,55,68,16,15,2026-04-10,31,70,68,False,-2,70,80,80,65,60,4,Same
+Shadow Dancer,7,M. Franco,K. McLaughlin,20.0,False,75,50,65,65,15,14,2026-04-05,36,68,70,False,-1,80,75,55,60,55,3,Same
+Emerald Wind,4,J. Alvarado,L. Rice,30.0,False,70,45,60,60,14,13,2026-03-28,44,65,65,False,0,75,70,70,55,50,2,Same
+Rusty Nail,9,K. Carmouche,R. Dutrow,50.0,False,68,80,45,55,17,16,2026-03-20,52,55,52,False,1,65,85,50,50,70,1,Same
+Dark Horse,10,P. Lopez,M. Maker,75.0,False,62,40,55,50,13,12,2026-03-15,57,52,55,False,-2,70,75,45,45,45,2,Same

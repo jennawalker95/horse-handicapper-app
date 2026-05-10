@@ -1,0 +1,176 @@
+track_code,surface,distance,furlongs,distance_group,pace_shape_default,speed_closer_bias,rail_outside_bias,post_position_impact,distance_quirks,distance_weight_multiplier,horse_type_favored
+AQU,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Slight rail bias on wet,1.0,Speed
+AQU,Dirt,6.5F,6.5,Sprint,H:P/S,Fair,Fair,Middle posts favored,Short stretch run,1.0,Speed
+AQU,Dirt,1M,8.0,Route,H:P/S,Fair,Fair,Wide posts OK,Two-turn mile,1.05,Stalker
+AQU,Dirt,1M70,8.875,Route,M:P/F,Fair,Outside,Wide posts benefit,Long stretch,1.1,Closer
+AQU,Dirt,1-1/16,8.5,Route,M:P/F,Fair,Outside,Post 1-5 favored,Clubhouse turn,1.05,Stalker
+AQU,Turf,1M,8.0,Route,H:P/S,Fair,Fair,Wide posts OK,Firm turf plays fast,0.95,Speed
+AQU,Turf,1-1/16,8.5,Route,M:P/F,Fair,Outside,Wide posts benefit,Widening turns,0.95,Stalker
+AQU,Turf,1-3/8,11.0,Route,M:P/F,Closer,Outside,Outside posts favored,Marathon distance,1.15,Closer
+BEL,Dirt,6F,6.0,Sprint,H:P/S,Fair,Rail,Rail favored on dry,Speed bias common,1.0,Speed
+BEL,Dirt,7F,7.0,Sprint,H:P/S,Fair,Rail,Inside posts favored,True seven,1.0,Speed
+BEL,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Widening finish line,1.05,Stalker
+BEL,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Outside posts favored,Big Belmont track,1.1,Closer
+BEL,Turf,1M,8.0,Route,H:P/S,Fair,Fair,Wide posts OK,Inner turf course,0.95,Speed
+BEL,Turf,1-1/16,8.5,Route,M:P/F,Fair,Outside,Wide posts benefit,Widening turf course,0.95,Stalker
+BEL,Turf,1-1/2,12.0,Route,L:S/P,Closer,Outside,Outside strongly favored,Marathon - rare in US,1.2,Closer
+SAR,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Wide posts OK,Fair track,1.0,Speed
+SAR,Dirt,6.5F,6.5,Sprint,H:P/S,Fair,Fair,Middle posts favored,Speed-friendly,1.0,Speed
+SAR,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Prestige meet,1.05,Stalker
+SAR,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Travers distance,1.1,Closer
+SAR,Turf,1M,8.0,Route,H:P/S,Fair,Fair,Wide posts OK,Turf often firm,0.95,Speed
+SAR,Turf,1-1/16,8.5,Route,M:P/F,Fair,Outside,Wide posts benefit,Strong turf course,0.95,Stalker
+SAR,Turf,1-3/8,11.0,Route,M:P/F,Closer,Outside,Outside favored,Sword Dancer distance,1.15,Closer
+GP,Dirt,5F,5.0,Sprint,H:P/S,Speed,Rail,Inside strongly favored,Very speed-biased,0.9,Speed
+GP,Dirt,6F,6.0,Sprint,H:P/S,Speed,Rail,Inside posts favored,Speed paradise,1.0,Speed
+GP,Dirt,7F,7.0,Sprint,H:P/S,Fair,Rail,Rail favored,True seven,1.0,Speed
+GP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Championship track,1.05,Stalker
+GP,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Pegasus distance,1.1,Closer
+GP,Turf,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts OK,Strong turf course,0.95,Stalker
+GP,Turf,1-3/16,9.5,Route,M:P/F,Closer,Outside,Outside favored,Pan American distance,1.05,Closer
+GP,Turf,1-1/2,12.0,Route,L:S/P,Closer,Outside,Outside strongly favored,Turf marathon,1.2,Closer
+CD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Rail,Inside posts favored,Speed-friendly,1.0,Speed
+CD,Dirt,6.5F,6.5,Sprint,H:P/S,Fair,Fair,Middle posts favored,Common sprint distance,1.0,Speed
+CD,Dirt,7F,7.0,Sprint,H:P/S,Fair,Fair,Wide posts OK,True seven,1.0,Speed
+CD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,KY Derby distance,1.05,Stalker
+CD,Dirt,1-1/16,8.5,Route,M:P/F,Fair,Outside,Wide posts benefit,Common route,1.05,Stalker
+CD,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Classic distance,1.1,Closer
+KEE,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts OK,Polytrack removed,1.0,Speed
+KEE,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Blue Grass distance,1.05,Stalker
+KEE,Turf,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Beautiful turf course,0.95,Stalker
+KEE,Turf,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Strong turf venue,1.0,Closer
+OP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Hot Springs track,1.0,Speed
+OP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Arkansas Derby,1.05,Stalker
+OP,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Oaklawn classic,1.1,Closer
+DRC,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts OK,Seaside track,1.0,Speed
+DRC,Dirt,7F,7.0,Sprint,H:P/S,Fair,Fair,Wide posts OK,True seven,1.0,Speed
+DRC,Dirt,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Pacific Classic dist,1.05,Stalker
+DRC,Turf,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts OK,Strong seaside turf,0.95,Stalker
+DRC,Turf,1-1/16,8.5,Route,M:P/F,Closer,Outside,Outside favored,Del Mar turf route,1.0,Closer
+SA,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts OK,Pro-ride/switch,1.0,Speed
+SA,Dirt,6.5F,6.5,Sprint,H:P/S,Fair,Fair,Middle posts favored,Santa Anita sprint,1.0,Speed
+SA,Dirt,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Big Cap distance,1.05,Stalker
+SA,Turf,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Beautiful downhill,0.95,Stalker
+SA,Turf,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Strong turf course,1.0,Closer
+LBG,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Gate speed wins,0.85,Break
+LBG,Dirt,330y,0.825,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Break speed paramount,0.85,Break
+LBG,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Premier QH distance,0.88,Break
+LBG,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,QH classic distance,0.9,Break
+LBG,Dirt,440y,1.1,QH-Sprint,H:P/S,Speed,Fair,Inside favored,QH quarter-mile,0.92,Break
+LBG,Dirt,550y,1.375,QH-Extended,H:P/S,Fair,Fair,Wide posts OK,Extended QH sprint,0.95,Speed
+LBG,Dirt,660y,1.65,QH-Extended,H:P/S,Fair,Fair,Wide posts OK,QH middle distance,1.0,Speed
+LBG,Dirt,870y,2.175,QH-Extended,M:P/F,Fair,Fair,Wide posts OK,QH extended,1.05,Stalker
+RP,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,QH strong meet,0.85,Break
+RP,Dirt,330y,0.825,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Heritage Place dist,0.85,Break
+RP,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Speed bias,0.88,Break
+RP,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,QH feature distance,0.9,Break
+RP,Dirt,440y,1.1,QH-Sprint,H:P/S,Speed,Fair,Inside favored,Remington QH,0.92,Break
+LS,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Texas QH sprint,0.85,Break
+LS,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Lone Star QH,0.88,Break
+LS,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Texas Classic dist,0.9,Break
+HOU,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Houston QH,0.85,Break
+HOU,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Houston QH feature,0.88,Break
+HOU,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Houston QH classic,0.9,Break
+ALB,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Albuquerque QH,0.85,Break
+ALB,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Shue Fly distance,0.88,Break
+ALB,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Championship dist,0.9,Break
+ZIA,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Zia QH sprint,0.85,Break
+ZIA,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Zia QH,0.88,Break
+ZIA,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Zia QH feature,0.9,Break
+FG,Dirt,5.5F,5.5,Sprint,H:P/S,Fair,Fair,Inside favored,Fair Grounds sprint,1.0,Speed
+FG,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Louisiana Derby,1.05,Stalker
+FG,Dirt,1-1/16,8.5,Route,M:P/F,Fair,Outside,Wide posts benefit,Classic distance,1.05,Stalker
+TP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Turfway synthetic,1.0,Speed
+TP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Jeff Ruby Steaks dist,1.05,Stalker
+PRX,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,PA Derby venue,1.0,Speed
+PRX,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,PA Derby distance,1.05,Stalker
+MTH,Dirt,5.5F,5.5,Sprint,H:P/S,Speed,Fair,Inside favored,Haskell venue,1.0,Speed
+MTH,Dirt,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Haskell distance,1.05,Stalker
+MTH,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts favored,Monmouth route,1.1,Closer
+LRL,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Maryland venue,1.0,Speed
+LRL,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Maryland route,1.05,Stalker
+PID,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts OK,Tapeta surface,1.0,Speed
+PID,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Tapeta mile,1.05,Stalker
+WRD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Oklahoma venue,1.0,Speed
+WRD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Oklahoma route,1.05,Stalker
+RET,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Oklahoma venue,1.0,Speed
+RET,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Oklahoma Gold Cup,1.05,Stalker
+SUN,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,New Mexico venue,1.0,Speed
+SUN,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Sunland Derby dist,1.05,Stalker
+TUP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Phoenix venue,1.0,Speed
+TUP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Turf Paradise mile,1.05,Stalker
+EMD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Seattle venue,1.0,Speed
+EMD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Pacific route,1.05,Stalker
+SR,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Sam Houston TB,1.0,Speed
+SR,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Houston route,1.05,Stalker
+HAW,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Chicago venue,1.0,Speed
+HAW,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Hawthorne route,1.05,Stalker
+ELP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Ellis Park sprint,1.0,Speed
+ELP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Ellis Park mile,1.05,Stalker
+ELP,Dirt,1-1/8,9.0,Route,M:P/F,Fair,Outside,Wide posts benefit,Governors Cup dist,1.1,Closer
+KD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Kentucky Downs,1.05,Stalker
+KD,Turf,1M,8.0,Route,M:P/F,Fair,Outside,Wide posts benefit,All-turf mile,0.95,Stalker
+KD,Turf,1-1/2,12.0,Route,L:S/P,Closer,Outside,Outside strongly favored,Turf marathon,1.2,Closer
+CNL,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Colonial mile,1.05,Stalker
+CNL,Turf,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Colonial turf,0.95,Stalker
+CNL,Turf,1-3/16,9.5,Route,M:P/F,Closer,Outside,Wide posts benefit,Colonial turf route,1.05,Closer
+BTP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Belterra sprint,1.0,Speed
+BTP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Belterra route,1.05,Stalker
+MVR,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Mahoning sprint,1.0,Speed
+MVR,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Mahoning route,1.05,Stalker
+TDN,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Thistledown sprint,1.0,Speed
+TDN,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Thistledown mile,1.05,Stalker
+IND,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Indiana sprint,1.0,Speed
+IND,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Indiana Derby dist,1.05,Stalker
+AP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Arlington sprint,1.0,Speed
+AP,Turf,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Arlington turf,0.95,Stalker
+AP,Turf,1-1/4,10.0,Route,M:P/F,Closer,Outside,Wide posts benefit,Arlington Million dist,1.1,Closer
+DEL,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Delaware sprint,1.0,Speed
+DEL,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Delaware Handicap dist,1.05,Stalker
+DEL,Turf,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Delaware turf,0.95,Stalker
+CT,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Charles Town sprint,1.0,Speed
+CT,Dirt,7F,7.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Charles Town seven,1.0,Speed
+MNR,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Mountaineer sprint,1.0,Speed
+MNR,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Mountaineer route,1.05,Stalker
+PEN,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Penn National sprint,1.0,Speed
+PEN,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Penn National mile,1.05,Stalker
+FL,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Finger Lakes sprint,1.0,Speed
+FL,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Finger Lakes route,1.05,Stalker
+EVD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Evangeline sprint,1.0,Speed
+EVD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Evangeline route,1.05,Stalker
+DED,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Delta sprint,1.0,Speed
+DED,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Delta route,1.05,Stalker
+LAD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,LA Downs sprint,1.0,Speed
+LAD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,LA Downs route,1.05,Stalker
+FON,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Fonner sprint,1.0,Speed
+FON,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Fonner route,1.05,Stalker
+CBY,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Canterbury sprint,1.0,Speed
+CBY,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Canterbury route,1.05,Stalker
+ARP,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Arapahoe sprint,1.0,Speed
+ARP,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Arapahoe mile,1.05,Stalker
+SFE,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Santa Fe QH,0.85,Break
+SFE,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Santa Fe QH feature,0.88,Break
+SFE,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Santa Fe QH classic,0.9,Break
+SUD,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Florida QH,0.85,Break
+SUD,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Florida QH feature,0.88,Break
+OCG,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,OC QH,0.85,Break
+OCG,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,OC QH feature,0.88,Break
+OCG,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,OC QH classic,0.9,Break
+POM,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Pomona QH,0.85,Break
+POM,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,L.A. County Fair QH,0.88,Break
+POM,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Pomona QH feature,0.9,Break
+DMR,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Del Mar QH,0.85,Break
+DMR,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Del Mar QH feature,0.88,Break
+DMR,Dirt,400y,1.0,QH-Sprint,H:P/S,Speed,Inside,Inside favored,Del Mar QH classic,0.9,Break
+FX,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Fresno QH,0.85,Break
+FX,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Fresno QH feature,0.88,Break
+STK,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Stockton QH,0.85,Break
+STK,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,Stockton QH feature,0.88,Break
+SD,Dirt,300y,0.75,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,San Diego QH,0.85,Break
+SD,Dirt,350y,0.875,QH-Sprint,H:P/S,Speed,Inside,Inside CRITICAL,San Diego QH feature,0.88,Break
+PLD,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Pleasanton sprint,1.0,Speed
+PLD,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Pleasanton mile,1.05,Stalker
+SAC,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Sacramento sprint,1.0,Speed
+SAC,Dirt,1M,8.0,Route,M:P/F,Fair,Fair,Wide posts OK,Sacramento mile,1.05,Stalker
+FER,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Ferndale sprint,1.0,Speed
+SOL,Dirt,6F,6.0,Sprint,H:P/S,Fair,Fair,Middle posts favored,Solano sprint,1.0,Speed

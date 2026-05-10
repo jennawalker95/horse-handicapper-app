@@ -1,0 +1,28 @@
+code,name,breed,description,weight_emphasis_multiplier,volatility_chaos_scale,pass_race_sensitivity,chaos_factor,typical_field_size,notes
+MDN,Maiden Special Weight,TB,Non-winners at maiden level,1.0,1.3,0.8,High,8-12,Inexperienced horses - high chaos
+MDN-C,Maiden Claiming,TB,Maiden races with claiming tag,1.05,1.4,0.7,High,8-12,Often chaotic - check for drops
+CLM,Claiming,TB,Horses for sale at set price,1.05,1.2,0.9,Medium-High,7-10,Class moves key - check claim prices
+OC,Optional Claimer,TB,Allowance/claiming hybrid,1.0,1.1,1.0,Medium,6-9,Balanced fields - class moves matter
+ALW,Allowance,TB,Non-claiming with conditions,0.95,1.0,1.1,Medium,5-8,More form-reliable - trust patterns
+AOC,Allowance Optional Claiming,TB,ALW with optional tag,0.95,1.0,1.1,Medium,5-8,Slight class ambiguity
+STK,Stakes,TB,Graded or non-graded stakes,0.9,0.9,1.2,Low-Medium,5-8,Best horses - form holds strongly
+G1,Grade 1 Stakes,TB,Premier stakes events,0.85,0.8,1.3,Low,4-7,Elite fields - class dominates
+G2,Grade 2 Stakes,TB,Secondary stakes,0.88,0.85,1.25,Low,4-7,Strong fields
+G3,Grade 3 Stakes,TB,Tertiary stakes,0.9,0.9,1.2,Low-Medium,5-8,Quality fields
+HCP,Handicap,TB,Weighted by ability,0.95,0.95,1.15,Medium,5-8,Weight shifts matter
+SHP,Starter Handicap,TB,Claiming horses in handicap,1.05,1.2,0.9,Medium-High,7-10,Claimers with conditions
+WCL,Waiver Claiming,TB,Claiming with waiver option,1.05,1.25,0.85,Medium-High,7-10,Tricky conditions
+STR,Starter Allowance,TB,Former claimers allowance,1.0,1.1,1.0,Medium,6-9,Class move indicator
+MSW-F,Maiden Special Fillies,TB,Maiden for fillies/mares,1.0,1.3,0.8,High,7-11,Slightly less chaotic than open
+CLM-F,Claiming Fillies,TB,Claiming for fillies/mares,1.05,1.25,0.85,Medium-High,7-10,Female form more variable
+ALW-F,Allowance Fillies,TB,Allowance for fillies/mares,0.95,1.05,1.05,Medium,5-8,Female allowance patterns
+STK-F,Stakes Fillies,TB,Stakes for fillies/mares,0.9,0.9,1.15,Low-Medium,5-7,Quality female races
+QH-MDN,QH Maiden,QH,Non-winners at maiden level,1.0,1.2,0.9,High,8-10,Break speed critical
+QH-TR,QH Trial,QH,Trials for major finals,0.95,1.1,1.0,Medium-High,8-10,Gate draw paramount
+QH-FN,QH Final,QH,Championship finals,0.9,1.0,1.1,Medium,8-10,Elite QH - break rules
+QH-ALW,QH Allowance,QH,Non-claiming QH,0.95,1.0,1.0,Medium,7-9,QH form patterns
+QH-STK,QH Stakes,QH,QH stakes events,0.9,0.95,1.1,Low-Medium,7-9,Best QH horses
+QH-D,QH Derby,QH,QH Derby events,0.88,0.9,1.15,Low-Medium,8-10,QH classics
+QH-FUT,QH Futurity,QH,2-year-old QH championship,0.9,1.1,1.0,Medium-High,8-10,Youth QH - break speed
+QH-DER,QH Derby,QH,3-year-old QH championship,0.88,1.0,1.1,Medium,8-10,QH classic
+QH-CH,QH Championship,QH,Breeders Crown type events,0.85,0.85,1.2,Low,8-10,QH elite events

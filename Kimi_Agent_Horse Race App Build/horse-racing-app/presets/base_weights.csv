@@ -1,0 +1,19 @@
+component,weight,description,adjustable,min,max,group
+speed_figure,25,Normalized speed figure rating,1,10,40,Speed
+early_pace,15,Early pace rating / pressing ability,1,5,25,Pace
+late_pace,15,Late pace rating / closing kick,1,5,25,Pace
+pace_pressure,10,Pace pressure / scenario fit,1,3,20,Pace
+class_rating,20,Class level / field strength,1,5,30,Class
+form_trend,15,Recent form trajectory,1,5,20,Form
+trainer_rating,12,Trainer effectiveness index,1,3,20,Connections
+jockey_rating,10,Jockey effectiveness index,1,3,15,Connections
+combo_rating,8,Trainer-jockey combination rating,1,2,15,Connections
+distance_fit,10,Distance compatibility score,1,3,15,Track
+surface_fit,8,Surface preference / history,1,2,12,Track
+post_position,5,Post position advantage,1,0,10,Track
+layoff_factor,5,Layoff penalty or bonus,1,0,10,Form
+weight_adjusted,5,Weight carried adjustment,1,0,10,Class
+speed_consistency,10,Speed figure consistency,1,3,15,Speed
+class_move,8,Class move (up/down/same),1,2,12,Class
+workout_pattern,7,Recent workout quality,1,2,12,Form
+bounce_flag,-5,Bounce/regression risk flag,1,-15,0,Form

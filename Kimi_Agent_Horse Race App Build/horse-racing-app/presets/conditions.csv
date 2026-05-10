@@ -1,0 +1,22 @@
+condition_type,code,name,description,speed_figure_adjust,pace_bias_shift,closer_bias_shift,post_position_bias_shift,weight_multiplier,notes
+Surface,D-FAST,Dirt - Fast,Standard dry dirt,0,0,0,0,1.0,Baseline condition
+Surface,D-GOOD,Dirt - Good,Slightly dried,0,-0.5,-0.5,0,1.02,Near-fast - slight speed help
+Surface,D-MUD,Dirt - Muddy,Wet but not sealed,-2,-1,-2,1,1.08,Closers suffer - speed helps
+Surface,D-SLOP,Dirt - Sloppy,Very wet surface,-4,-2,-4,2,1.15,Speed paradise - closers die
+Surface,D-SEAL,Dirt - Sealed,Compressed wet surface,-1,-0.5,-1,0.5,1.04,Compromised sealing
+Surface,D-WET,Dirt - Wet,General wet,-2,-1,-2,1,1.06,Wet dirt - speed bias
+Turf,T-FIRM,Turf - Firm,Hard dry turf,0,0.5,0,0,0.95,Firm turf - speed friendly
+Turf,T-GOOD,Turf - Good,Standard turf,-1,0,0.5,0.5,1.0,Good turf - balanced
+Turf,T-YIELD,Turf - Yielding,Softening turf,-3,-1,2,1,1.05,Closers come alive
+Turf,T-SOFT,Turf - Soft,Very soft turf,-5,-2,4,2,1.12,Deep closer bias - marathon types
+Turf,T-HEAVY,Turf - Heavy,Extremely soft,-6,-3,5,2,1.15,European-style deep turf
+Weather,CLEAR,Clear,No weather impact,0,0,0,0,1.0,Baseline weather
+Weather,OVER,Overcast,Cloudy,-0.5,0,0,0,1.0,Minimal impact
+Weather,DRIZZLE,Light rain,Light precipitation,-1,-0.5,0.5,0.5,1.02,Slight closer help
+Weather,RAIN,Rain,Steady rain,-2,-1,2,1,1.05,Helps closers on turf
+Weather,H-RAIN,Heavy rain,Downpour conditions,-4,-2,4,2,1.12,Major closer bias
+Weather,WINDY,Windy,Strong winds,-1,0,0,-1,1.03,Wind affects sprints more
+Weather,HOT,Extreme heat,90F+ conditions,-1,0,0,0,1.02,Heat fatigue factor
+Weather,COLD,Extreme cold,Below freezing,-1,0,0,0,1.02,Track may vary
+Weather,HUMID,Humid,High humidity,0,0,0,0,1.0,Minimal direct impact
+Weather,FOG,Fog,Low visibility,0,0,0,0,1.01,Slight uncertainty bump

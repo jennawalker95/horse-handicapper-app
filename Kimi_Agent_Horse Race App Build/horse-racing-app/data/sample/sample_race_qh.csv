@@ -1,0 +1,11 @@
+horse_name,post_position,jockey,trainer,morning_line,scratched,speed_figure,early_pace,late_pace,class_rating,trainer_pct,jockey_pct,last_race_date,days_since_race,last_class_level,prior_class_level,first_off_claim,form_trend_score,distance_fit_score,surface_fit_score,post_position_score,speed_consistency,workout_score,race_count_90d,break_speed_rating
+Dash Fire,1,R. Ramirez,J. Snow,3.0,False,95,95,30,85,25,22,2026-05-05,6,80,78,False,2,90,95,95,90,85,2,92
+Quick Silver,3,A. Botello,M. Gonzalez,4.5,False,90,88,35,82,23,20,2026-05-02,9,78,76,False,1,85,90,80,85,80,3,88
+Flash Point,6,J. Zunino,B. Hunt,5.5,False,88,92,25,80,24,21,2026-04-28,13,76,78,False,-1,88,92,65,82,88,2,90
+Rocket Man,2,L. Hinojosa,T. Carter,6.0,False,85,85,40,78,20,19,2026-04-25,16,75,74,False,0,82,88,85,78,82,4,85
+Speed Demon,8,C. Smith,D. Johnson,8.0,False,82,90,20,75,18,17,2026-04-20,21,72,70,False,1,80,90,55,75,85,3,87
+Wild Card,4,M. Arriaga,K. Walker,12.0,False,78,80,45,70,16,15,2026-04-15,26,70,72,True,-1,75,85,75,70,78,2,82
+Long Shot,7,J. Parra,R. Martinez,20.0,False,72,70,50,65,15,14,2026-04-10,31,68,66,False,2,70,80,60,65,65,3,78
+Dark Moon,5,A. Fuentes,C. Davis,30.0,False,68,65,55,60,14,13,2026-04-05,36,65,64,False,0,72,78,70,60,60,2,75
+Lucky Star,9,R. Morales,L. Hernandez,50.0,False,62,60,45,55,13,12,2026-03-28,44,60,62,False,-2,68,75,50,55,55,1,70
+Tiny Dancer,10,P. Garcia,S. Lopez,75.0,False,55,50,40,48,12,11,2026-03-20,52,55,56,False,-1,65,70,45,50,50,2,65
